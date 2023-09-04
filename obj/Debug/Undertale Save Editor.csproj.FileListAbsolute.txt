@@ -1,0 +1,10 @@
+C:\Users\doodoofart\source\repos\Undertale Save Editor\Undertale Save Editor\bin\Debug\Undertale Save Editor.exe.config
+C:\Users\doodoofart\source\repos\Undertale Save Editor\Undertale Save Editor\bin\Debug\Undertale Save Editor.exe
+C:\Users\doodoofart\source\repos\Undertale Save Editor\Undertale Save Editor\bin\Debug\Undertale Save Editor.pdb
+C:\Users\doodoofart\source\repos\Undertale Save Editor\Undertale Save Editor\obj\Debug\Undertale Save Editor.csproj.AssemblyReference.cache
+C:\Users\doodoofart\source\repos\Undertale Save Editor\Undertale Save Editor\obj\Debug\Undertale_Save_Editor.Form1.resources
+C:\Users\doodoofart\source\repos\Undertale Save Editor\Undertale Save Editor\obj\Debug\Undertale_Save_Editor.Properties.Resources.resources
+C:\Users\doodoofart\source\repos\Undertale Save Editor\Undertale Save Editor\obj\Debug\Undertale Save Editor.csproj.GenerateResource.cache
+C:\Users\doodoofart\source\repos\Undertale Save Editor\Undertale Save Editor\obj\Debug\Undertale Save Editor.csproj.CoreCompileInputs.cache
+C:\Users\doodoofart\source\repos\Undertale Save Editor\Undertale Save Editor\obj\Debug\Undertale Save Editor.exe
+C:\Users\doodoofart\source\repos\Undertale Save Editor\Undertale Save Editor\obj\Debug\Undertale Save Editor.pdb
